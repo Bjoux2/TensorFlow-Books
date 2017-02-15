@@ -5,6 +5,8 @@ A collection of Tensorflow books.
 
 - [First contact with TensorFlow](), Apr 5, 2016 by Jordi Torres
 
+- [Getting Started with TensorFlow](), Jul 29, 2016 by Giancarlo Zaccone
+
 - [TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms](), Nov 10, 2016 by Sam Abrahams and Danijar Hafner
 
 - [Building Machine Learning Projects with TensorFlow](), Nov 24, 2016 by Rodolfo Bonnin
@@ -18,8 +20,6 @@ A collection of Tensorflow books.
 - [Machine Learning with TensorFlow](http://www.tensorflowbook.com), Jul 1, 2017 by Nishant Shukla
 
 - [Learning TensorFlow: A guide to building deep learning systems](), Jun 25, 2017 by Tom Hope and Yehezkel S. Resheff
-
-- [Getting Started with TensorFlow](), Jul 29, 2016 by Giancarlo Zaccone
 
 ## Chinese Books
 
