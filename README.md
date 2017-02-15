@@ -3,11 +3,11 @@ A collection of Tensorflow books.
 
 ## English Books:
 
-- [First contact with TensorFlow](), Apr 5, 2016 by Jordi Torres. [Official Website](http://jorditorres.org/first-contact-with-tensorflow/) :star::star::star:
+- [First contact with TensorFlow](), Apr 5, 2016 by Jordi Torres. [Free Online](http://jorditorres.org/first-contact-with-tensorflow/) :star::star::star:
 
-- [Getting Started with TensorFlow](), Jul 29, 2016 by Giancarlo Zaccone
+- [Getting Started with TensorFlow](), Jul 29, 2016 by Giancarlo Zaccone :star::star::star:
 
-- [TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms](), Nov 10, 2016 by Sam Abrahams and Danijar Hafner
+- [TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms](), Nov 10, 2016 by Sam Abrahams and Danijar Hafner :star::star::star:
 
 - [Building Machine Learning Projects with TensorFlow](), Nov 24, 2016 by Rodolfo Bonnin
 
