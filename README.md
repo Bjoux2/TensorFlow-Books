@@ -1,18 +1,26 @@
-# Deep-Learning-Books-
-A collection of all Deep learning books and Tensorflow books.
+# TensorFlow Books
+A collection of Tensorflow books.
 
-**1** Machine Learning with TensorFlow. http://www.tensorflowbook.com ; https://github.com/BinRoot/TensorFlow-Book;
+## English Books:
 
-**2** First contact with TensorFlow.
+- [Machine Learning with TensorFlow](http://www.tensorflowbook.com)(https://github.com/BinRoot/TensorFlow-Book)
 
-**3** Deep Learning with TensorFlow.
+- [First contact with TensorFlow]()
 
-**4** Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems.
+- [Deep Learning with TensorFlow]()
 
-**5** TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms.
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems]()
 
-**6** Getting Started with TensorFlow.
+- [TensorFlow for Machine Intelligence: A Hands-On Introduction to Learning Algorithms]()
 
-**7** Learning TensorFlow: A guide to building deep learning systems.
+- [Getting Started with TensorFlow]()
 
-**8** Building Machine Learning Projects with TensorFlow.
+- [Learning TensorFlow: A guide to building deep learning systems]()
+
+- [Building Machine Learning Projects with TensorFlow]()
+
+## Chinese Books
+
+- [Tensorflow：实战Google深度学习框架](https://book.douban.com/subject/26974266/)
+
+- [Tensorflow：实战Google深度学习框架](https://github.com/Bjoux2)
