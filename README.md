@@ -3,7 +3,7 @@ A collection of Tensorflow books.
 
 ## English Books:
 
-- [First contact with TensorFlow](), Apr 5, 2016 by Jordi Torres
+- [First contact with TensorFlow](), Apr 5, 2016 by Jordi Torres.[official website](http://jorditorres.org/first-contact-with-tensorflow/)
 
 - [Getting Started with TensorFlow](), Jul 29, 2016 by Giancarlo Zaccone
 
