@@ -3,7 +3,7 @@ A collection of Tensorflow books.
 
 ## English Books:
 
-- [Machine Learning with TensorFlow](http://www.tensorflowbook.com)
+- [Machine Learning with TensorFlow](http://www.tensorflowbook.com), Nishant Shukla, Jul 1, 2017
 
 - [First contact with TensorFlow]()
 
@@ -21,6 +21,6 @@ A collection of Tensorflow books.
 
 ## Chinese Books
 
-- [Tensorflow：实战Google深度学习框架](https://book.douban.com/subject/26974266/)
+- [Tensorflow实战](https://book.douban.com/subject/26974266/)
 
 - [Tensorflow：实战Google深度学习框架](https://github.com/Bjoux2)
