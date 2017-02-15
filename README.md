@@ -21,7 +21,7 @@ A collection of Tensorflow books.
 
 - [Learning TensorFlow: A guide to building deep learning systems](), Jun 25, 2017 by Tom Hope and Yehezkel S. Resheff
 
-## Chinese Books
+## Chinese Books:
 
 - [Tensorflow实战](https://book.douban.com/subject/26974266/), Feb, 2017 by 黄文坚 and 唐源
 
