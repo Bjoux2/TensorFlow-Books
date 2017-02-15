@@ -3,7 +3,7 @@ A collection of Tensorflow books.
 
 ## English Books:
 
-- [Machine Learning with TensorFlow](http://www.tensorflowbook.com)(https://github.com/BinRoot/TensorFlow-Book)
+- [Machine Learning with TensorFlow](http://www.tensorflowbook.com)
 
 - [First contact with TensorFlow]()
 
