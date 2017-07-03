@@ -23,8 +23,12 @@ A collection of Tensorflow books.
 
 ## Chinese Books:
 
-- [Tensorflow实战](https://book.douban.com/subject/26974266/), Feb, 2017 by 黄文坚 and 唐源
+- [Tensorflow实战](https://book.douban.com/subject/26974266/), Feb, 2017. 作者: 黄文坚, 唐源
 
-- [Tensorflow：实战Google深度学习框架](https://github.com/Bjoux2), Mar, 2017 by 郑泽宇 and 顾思宇
+- [Tensorflow：实战Google深度学习框架](https://github.com/Bjoux2), Mar, 2017. 作者: 郑泽宇, 顾思宇
 
-- [TensorFlow技术解析与实战](https://book.douban.com/subject/27055214/), june, 2017 by 李嘉璇
+- [TensorFlow技术解析与实战](https://book.douban.com/subject/27055214/), june, 2017. 作者: 李嘉璇
+
+- [深度学习原理与TensorFlow实践](https://book.douban.com/subject/27038400/), june, 2017. 作者: 喻俨, 莫瑜, 王琛, 胡振邦, 高杰 
+
+- [面向机器智能的TensorFlow实践](https://book.douban.com/subject/27031750/), May, 2017. 作者: [美] 山姆·亚伯拉罕（Sam Abrahams）, [美] 丹尼亚尔·哈夫纳（Danijar Hafner）, [美] 埃里克·厄威特, [美] 阿里尔·斯卡尔皮内里. 译者: 段菲, 陈澎
