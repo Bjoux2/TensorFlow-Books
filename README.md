@@ -21,6 +21,10 @@ A collection of Tensorflow books.
 
 - [Learning TensorFlow: A guide to building deep learning systems](), Jun 25, 2017 by Tom Hope and Yehezkel S. Resheff
 
+- [Deep Learning with Python: A Hands-on Introduction](https://machinelearningmastery.com/deep-learning-with-python/)
+, Sep, 2017 by Nikhil Ketkar 
+
+
 ## Chinese Books:
 
 - [Tensorflow实战](https://book.douban.com/subject/26974266/), Feb, 2017. 作者: 黄文坚, 唐源
