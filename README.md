@@ -31,8 +31,8 @@ A collection of Tensorflow books.
 
 - [Tensorflow：实战Google深度学习框架](https://github.com/Bjoux2), Mar, 2017. 作者: 郑泽宇, 顾思宇
 
-- [TensorFlow技术解析与实战](https://book.douban.com/subject/27055214/), june, 2017. 作者: 李嘉璇
+- [TensorFlow技术解析与实战](https://book.douban.com/subject/27055214/), June, 2017. 作者: 李嘉璇
 
-- [深度学习原理与TensorFlow实践](https://book.douban.com/subject/27038400/), june, 2017. 作者: 喻俨, 莫瑜, 王琛, 胡振邦, 高杰 
+- [深度学习原理与TensorFlow实践](https://book.douban.com/subject/27038400/), June, 2017. 作者: 喻俨, 莫瑜, 王琛, 胡振邦, 高杰 
 
 - [面向机器智能的TensorFlow实践](https://book.douban.com/subject/27031750/), May, 2017. 作者: Sam Abrahams, Danijar Hafner. 译者: 段菲, 陈澎
