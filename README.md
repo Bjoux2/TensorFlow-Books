@@ -26,3 +26,5 @@ A collection of Tensorflow books.
 - [Tensorflow实战](https://book.douban.com/subject/26974266/), Feb, 2017 by 黄文坚 and 唐源
 
 - [Tensorflow：实战Google深度学习框架](https://github.com/Bjoux2), Mar, 2017 by 郑泽宇 and 顾思宇
+
+- [TensorFlow技术解析与实战](https://book.douban.com/subject/27055214/), june, 2017 by 李嘉璇
